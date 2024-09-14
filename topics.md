@@ -1150,6 +1150,8 @@
 
 ## others 
 
+- [Nexus-Mods/Vortex](https://github.com/Nexus-Mods/Vortex) - Vortex Development
+- [Metherlance/Bannerlord_BattleLink](https://github.com/Metherlance/Bannerlord_BattleLink) - 
 - [mal1kc/muscpy](https://github.com/mal1kc/muscpy) - A Discord music bot powered by Python, FFmpeg, and yt-dlp.
 - [mal1kc/knowledge_competition](https://github.com/mal1kc/knowledge_competition) - simple knowledge compeition game in python
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
@@ -1512,7 +1514,7 @@
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
-- [Huluti/Curtail](https://github.com/Huluti/Curtail) - Simple & useful image compressor.
+- [Huluti/Curtail](https://github.com/Huluti/Curtail) - Simple & useful image compressor
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
