@@ -334,6 +334,7 @@
 
 ## Go 
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [satisfactorymodding/ficsit-cli](https://github.com/satisfactorymodding/ficsit-cli) - A CLI tool for managing mods for the game Satisfactory
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [codegangsta/gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers
