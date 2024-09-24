@@ -363,6 +363,7 @@
 
 ## cli 
 
+- [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [satisfactorymodding/ficsit-cli](https://github.com/satisfactorymodding/ficsit-cli) - A CLI tool for managing mods for the game Satisfactory
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
