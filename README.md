@@ -62,6 +62,7 @@
 
 ## C 
 
+- [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
