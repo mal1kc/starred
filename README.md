@@ -488,6 +488,7 @@
 
 ## Others 
 
+- [ar51an/iperf3-win-builds](https://github.com/ar51an/iperf3-win-builds) - iperf3 binaries for Windows. Benchmark your network limits.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [extremecoders-re/decompyle-builds](https://github.com/extremecoders-re/decompyle-builds) - Precompiled Decompyle++ (pycdc) binaries for Windows & Linux
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
