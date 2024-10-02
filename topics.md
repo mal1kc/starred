@@ -455,7 +455,6 @@
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [razzmatazz/csharp-language-server](https://github.com/razzmatazz/csharp-language-server) - Roslyn-based LSP language server for C#
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [BrianLima/UWPHook](https://github.com/BrianLima/UWPHook) - 🔗 Add your Windows Store or UWP games to Steam
 - [OGRECave/ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
@@ -564,7 +563,6 @@
 - [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 
 ## education 
@@ -611,7 +609,6 @@
 ## emulator 
 
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 
