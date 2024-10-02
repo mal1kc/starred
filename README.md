@@ -152,7 +152,6 @@
 - [nreco/logging](https://github.com/nreco/logging) - Generic file logger for .NET Core (FileLoggerProvider) with minimal dependencies
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [CXWorld/CapFrameX](https://github.com/CXWorld/CapFrameX) - Frametime capture and analysis tool
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [gro-ove/actools](https://github.com/gro-ove/actools) - Alternative launcher for Assetto Corsa named Content Manager, and some utils as well.
 - [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
