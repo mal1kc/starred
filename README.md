@@ -172,6 +172,7 @@
 
 ## C++ 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [hyprwm/aquamarine](https://github.com/hyprwm/aquamarine) - Aquamarine is a very light linux rendering backend library
