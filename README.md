@@ -488,6 +488,7 @@
 
 ## Others 
 
+- [niXman/mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries) - MinGW-W64 compiler binaries
 - [ar51an/iperf3-win-builds](https://github.com/ar51an/iperf3-win-builds) - iperf3 binaries for Windows. Benchmark your network limits.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [extremecoders-re/decompyle-builds](https://github.com/extremecoders-re/decompyle-builds) - Precompiled Decompyle++ (pycdc) binaries for Windows & Linux
@@ -708,6 +709,7 @@
 
 ## Rust 
 
+- [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -804,6 +806,7 @@
 
 ## TypeScript 
 
+- [kodestan/tank-ops](https://github.com/kodestan/tank-ops) - 
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [Nexus-Mods/Vortex](https://github.com/Nexus-Mods/Vortex) - Vortex Development
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
