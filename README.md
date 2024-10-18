@@ -62,6 +62,7 @@
 
 ## C 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -710,6 +711,8 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -847,6 +850,7 @@
 
 ## Zig 
 
+- [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook) - Simple Zig programs that demonstrate good practices to accomplish common programming tasks.
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
