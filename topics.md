@@ -1192,7 +1192,7 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [c3lang/tree-sitter-c3](https://github.com/c3lang/tree-sitter-c3) - C3 grammar for tree-sitter
-- [coletdjnz/yt-dlp-youtube-oauth2](https://github.com/coletdjnz/yt-dlp-youtube-oauth2) - Plugin that adds OAuth2 login support to yt-dlp's YouTube extractors
+- [coletdjnz/yt-dlp-youtube-oauth2](https://github.com/coletdjnz/yt-dlp-youtube-oauth2) - [OBSOLETE] Plugin that adds OAuth2 login support to yt-dlp's YouTube extractors
 - [GPUOpen-Tools/frame_latency_meter](https://github.com/GPUOpen-Tools/frame_latency_meter) - 
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
