@@ -336,6 +336,9 @@
 
 ## Go 
 
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
+- [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
+- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [satisfactorymodding/ficsit-cli](https://github.com/satisfactorymodding/ficsit-cli) - A CLI tool for managing mods for the game Satisfactory
