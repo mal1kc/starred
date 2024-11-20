@@ -194,6 +194,7 @@
 
 ## android 
 
+- [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - The app for BLE ether monitoring tracks your environment, finds some devices, makes relations between devices around you, and tracks devices' movements.
@@ -1184,6 +1185,7 @@
 
 ## others 
 
+- [satisfactory-factories/application](https://github.com/satisfactory-factories/application) - A tool to visualise groupings of factories to create a true Modular Factory setup for the game Satisfactory.
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [ssttkkl/mahjong-utils-app](https://github.com/ssttkkl/mahjong-utils-app) - Riichi Mahjong Calculator App (for Android, iOS, Desktop, Web, based on Compose Multiplatform)
@@ -1495,6 +1497,7 @@
 
 ## privacy 
 
+- [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
