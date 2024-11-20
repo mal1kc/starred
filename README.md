@@ -860,6 +860,7 @@
 
 ## Vue 
 
+- [satisfactory-factories/application](https://github.com/satisfactory-factories/application) - A tool to visualise groupings of factories to create a true Modular Factory setup for the game Satisfactory.
 - [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
 
 ## Zig 
