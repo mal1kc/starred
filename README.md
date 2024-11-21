@@ -381,6 +381,7 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [yusufyilmazfr/tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) - Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımının yanı sıra C#, Java, Go, Python, Kotlin ve TypeScript gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir
 
 ## Haskell 
@@ -509,7 +510,6 @@
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [nv-tlabs/vqad](https://github.com/nv-tlabs/vqad) - 
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [nckslvrmn/arch_linux_wsl2](https://github.com/nckslvrmn/arch_linux_wsl2) - Installation instructions for Arch Linux in WSL2
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -585,7 +585,7 @@
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
