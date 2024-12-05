@@ -827,7 +827,7 @@
 
 ## TypeScript 
 
-- [satisfactory-factories/application](https://github.com/satisfactory-factories/application) - A tool to visualise groupings of factories to create a true Modular Factory setup for the game Satisfactory.
+- [satisfactory-factories/application](https://github.com/satisfactory-factories/application) - A tool to visualise the supply chain of factories to create a true Modular Factory setup for the game Satisfactory.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [kodestan/tank-ops](https://github.com/kodestan/tank-ops) - 
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
