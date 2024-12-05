@@ -1190,7 +1190,7 @@
 ## others 
 
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim
-- [satisfactory-factories/application](https://github.com/satisfactory-factories/application) - A tool to visualise groupings of factories to create a true Modular Factory setup for the game Satisfactory.
+- [satisfactory-factories/application](https://github.com/satisfactory-factories/application) - A tool to visualise the supply chain of factories to create a true Modular Factory setup for the game Satisfactory.
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [ssttkkl/mahjong-utils-app](https://github.com/ssttkkl/mahjong-utils-app) - Riichi Mahjong Calculator App (for Android, iOS, Desktop, Web, based on Compose Multiplatform)
