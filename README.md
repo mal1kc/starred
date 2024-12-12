@@ -725,6 +725,7 @@
 
 ## Rust 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
