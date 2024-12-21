@@ -62,6 +62,7 @@
 
 ## C 
 
+- [archlinux/linux](https://github.com/archlinux/linux) - Arch Linux kernel sources, with patches
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
@@ -829,6 +830,7 @@
 
 ## TypeScript 
 
+- [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [satisfactory-factories/application](https://github.com/satisfactory-factories/application) - A tool to visualise the supply chain of factories to create a true Modular Factory setup for the game Satisfactory.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [kodestan/tank-ops](https://github.com/kodestan/tank-ops) - 
