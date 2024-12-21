@@ -359,6 +359,7 @@
 
 ## chrome-extension 
 
+- [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
@@ -1194,6 +1195,7 @@
 
 ## others 
 
+- [archlinux/linux](https://github.com/archlinux/linux) - Arch Linux kernel sources, with patches
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim
 - [satisfactory-factories/application](https://github.com/satisfactory-factories/application) - A tool to visualise the supply chain of factories to create a true Modular Factory setup for the game Satisfactory.
