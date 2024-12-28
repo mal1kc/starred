@@ -75,7 +75,6 @@
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [lbonn/rofi](https://github.com/lbonn/rofi) - Rofi: A window switcher, run dialog and dmenu replacement - fork with wayland support
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
@@ -199,6 +198,7 @@
 - [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) - Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
 - [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi) - Alternative NVAPI implementation on top of DXVK.
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
@@ -730,6 +730,7 @@
 
 ## Rust 
 
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
