@@ -411,6 +411,7 @@
 
 ## JavaScript 
 
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [TodePond/Arroost](https://github.com/TodePond/Arroost) - arrows in arrows in arrows
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [kotsoft/particle_based_viscoelastic_fluid](https://github.com/kotsoft/particle_based_viscoelastic_fluid) - Implementation of Particle-based Viscoelastic Fluid Simulation
