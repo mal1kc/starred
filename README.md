@@ -62,6 +62,7 @@
 
 ## C 
 
+- [bjornbytes/lovr](https://github.com/bjornbytes/lovr) - Lua Virtual Reality Framework
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
 - [archlinux/linux](https://github.com/archlinux/linux) - Arch Linux kernel sources, with patches
