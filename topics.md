@@ -376,6 +376,7 @@
 
 ## cli 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
@@ -388,6 +389,7 @@
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -428,7 +430,6 @@
 
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
@@ -823,6 +824,7 @@
 
 ## hacktoberfest 
 
+- [jothi-prasath/auto-epp](https://github.com/jothi-prasath/auto-epp) - auto-epp is a python script that manages the energy performance preferences (EPP) of amd-pstate-epp
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -986,7 +988,6 @@
 
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [c3lang/c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
@@ -1002,6 +1003,7 @@
 
 ## linux 
 
+- [jothi-prasath/auto-epp](https://github.com/jothi-prasath/auto-epp) - auto-epp is a python script that manages the energy performance preferences (EPP) of amd-pstate-epp
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -1194,6 +1196,7 @@
 - [MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG) - A vector graphics application for structured SVG editing, available on all major desktop platforms. Currently in late alpha.
 - [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [meaningful-ooo/sponge](https://github.com/meaningful-ooo/sponge) - 🧽 Clean fish history from typos automatically
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
@@ -1216,6 +1219,7 @@
 
 ## others 
 
+- [ProtonMail/android-mail](https://github.com/ProtonMail/android-mail) - Proton Mail Android app
 - [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
 - [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [TTimo/doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
@@ -1566,6 +1570,7 @@
 
 ## python 
 
+- [jothi-prasath/auto-epp](https://github.com/jothi-prasath/auto-epp) - auto-epp is a python script that manages the energy performance preferences (EPP) of amd-pstate-epp
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - python and pygame wasm for everyone ( packager + test server + simulator )
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -1710,6 +1715,7 @@
 
 ## rust 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -1859,6 +1865,7 @@
 
 ## terminal 
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui) - A JSON terminal UI made in C++
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
