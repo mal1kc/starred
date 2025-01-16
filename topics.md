@@ -376,6 +376,7 @@
 
 ## cli 
 
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -824,6 +825,7 @@
 
 ## hacktoberfest 
 
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [jothi-prasath/auto-epp](https://github.com/jothi-prasath/auto-epp) - auto-epp is a python script that manages the energy performance preferences (EPP) of amd-pstate-epp
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
@@ -1003,6 +1005,7 @@
 
 ## linux 
 
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [jothi-prasath/auto-epp](https://github.com/jothi-prasath/auto-epp) - auto-epp is a python script that manages the energy performance preferences (EPP) of amd-pstate-epp
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -1715,6 +1718,7 @@
 
 ## rust 
 
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
@@ -1865,6 +1869,7 @@
 
 ## terminal 
 
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui) - A JSON terminal UI made in C++
