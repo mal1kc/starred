@@ -1073,6 +1073,7 @@
 
 ## lua 
 
+- [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [bjornbytes/lovr](https://github.com/bjornbytes/lovr) - Lua Virtual Reality Framework
 - [echasnovski/mini.surround](https://github.com/echasnovski/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
 - [echasnovski/mini.diff](https://github.com/echasnovski/mini.diff) - Work with diff hunks. Part of 'mini.nvim' library.
@@ -1157,6 +1158,7 @@
 
 ## neovim 
 
+- [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [echasnovski/mini.surround](https://github.com/echasnovski/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
@@ -1228,7 +1230,7 @@
 - [TTimo/doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
 - [archlinux/linux](https://github.com/archlinux/linux) - Arch Linux kernel sources, with patches
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
-- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim
+- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [satisfactory-factories/application](https://github.com/satisfactory-factories/application) - A tool to visualise the supply chain of factories to create a true Modular Factory setup for the game Satisfactory.
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
