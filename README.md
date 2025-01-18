@@ -166,7 +166,6 @@
 - [FreyaHolmer/Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
 - [BrianLima/UWPHook](https://github.com/BrianLima/UWPHook) - 🔗 Add your Windows Store or UWP games to Steam
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
-- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
 - [wieslawsoltes/Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
@@ -564,7 +563,6 @@
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
-- [nickcox/pure-pwsh](https://github.com/nickcox/pure-pwsh) - PowerShell implementation of the pure prompt
 
 ## Python 
 
@@ -737,6 +735,8 @@
 
 ## Rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
@@ -789,7 +789,7 @@
 
 ## SCSS 
 
-- [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
+- [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial) - Learn make by example
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [alike03/SubscriptionInfo](https://github.com/alike03/SubscriptionInfo) - See on Steam if the game is currently available on any Subscription package like Xbox Game Pass PC & Console, Ubisoft+ or EA Play
