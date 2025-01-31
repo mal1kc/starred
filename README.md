@@ -147,6 +147,7 @@
 
 ## C# # 
 
+- [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [Metherlance/Bannerlord_BattleLink](https://github.com/Metherlance/Bannerlord_BattleLink) - 
 - [KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher](https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher) - Flow launcher plugin for searching and launching games from multiple platforms like Steam, Epic Games, Xbox etc.
