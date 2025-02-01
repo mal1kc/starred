@@ -248,7 +248,7 @@
 - [taylorconor/quinesnake](https://github.com/taylorconor/quinesnake) - A quine that plays snake over its own source!
 - [atiksoftware/csgo_memory_hacking_examples](https://github.com/atiksoftware/csgo_memory_hacking_examples) - CsGO Memory Hacking C++ code examples. Ex: Read HP,Name,Coord,Bones,Weapons,items etc.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
-- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
+- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
 - [satisfactorymodding/SatisfactoryModLoader](https://github.com/satisfactorymodding/SatisfactoryModLoader) - SatisfactoryModLoader is an unofficial tool to load mods for the game Satisfactory.
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
 - [u8sand/Baka-MPlayer](https://github.com/u8sand/Baka-MPlayer) - The libmpv based media player
@@ -570,6 +570,7 @@
 
 ## PowerShell 
 
+- [deevus/zed-windows-builds](https://github.com/deevus/zed-windows-builds) - 
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
