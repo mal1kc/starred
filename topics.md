@@ -352,7 +352,7 @@
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
+- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
 - [wang-bin/QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 
@@ -474,7 +474,7 @@
 - [JonMagon/KDiskMark](https://github.com/JonMagon/KDiskMark) - A simple open-source disk benchmark tool for Linux distros
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
-- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
+- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
 - [OGRECave/ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
 
 ## cryptography 
@@ -569,7 +569,7 @@
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
+- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
 
 ## django 
 
@@ -906,7 +906,7 @@
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
+- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [ValvePython/steam](https://github.com/ValvePython/steam) - ☁️ Python package for interacting with Steam
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -1029,7 +1029,7 @@
 
 ## library 
 
-- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
+- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
 - [saleguas/context_menu](https://github.com/saleguas/context_menu) - 💻 A Python library to create and deploy cross-platform native context menus. 💻
 
 ## linux 
@@ -1262,6 +1262,8 @@
 
 ## others 
 
+- [deevus/zed-windows-builds](https://github.com/deevus/zed-windows-builds) - 
+- [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
