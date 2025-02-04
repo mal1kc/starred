@@ -579,6 +579,7 @@
 
 ## Python 
 
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [polychromatic/polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer.
@@ -864,6 +865,7 @@
 
 ## TypeScript 
 
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [satisfactory-factories/application](https://github.com/satisfactory-factories/application) - A tool to visualise the supply chain of factories to create a true Modular Factory setup for the game Satisfactory.
