@@ -151,7 +151,7 @@
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [Metherlance/Bannerlord_BattleLink](https://github.com/Metherlance/Bannerlord_BattleLink) - 
 - [KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher](https://github.com/KrystianLesniak/Flow.Launcher.Plugin.GamesLauncher) - Flow launcher plugin for searching and launching games from multiple platforms like Steam, Epic Games, Xbox etc.
-- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
+- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
 - [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager) - A mod manager for Baldur's Gate 3.
 - [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 - [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML) - ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML A
