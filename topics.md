@@ -127,6 +127,7 @@
 - [nodejs](#nodejs)
 - [numpy](#numpy)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [others](#others)
@@ -192,7 +193,7 @@
 ## ai 
 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -1256,6 +1257,10 @@
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
+## openai 
+
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
+
 ## opencv 
 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -1635,7 +1640,7 @@
 
 ## python 
 
-- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [polychromatic/polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer.
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
@@ -1945,7 +1950,7 @@
 
 ## terminal 
 
-- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
