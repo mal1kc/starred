@@ -223,7 +223,7 @@
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [JonMagon/KDiskMark](https://github.com/JonMagon/KDiskMark) - A simple open-source disk benchmark tool for Linux distros
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
