@@ -911,6 +911,7 @@
 
 ## Vue 
 
+- [SevenTV/Extension](https://github.com/SevenTV/Extension) - The Web Extension for 7TV, bringing new features, emotes, vanity and performance to Twitch, Kick & YouTube
 - [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - 🌐 My personal website.
 - [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
 
