@@ -589,6 +589,7 @@
 
 ## Python 
 
+- [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [dawnbeen/c_formatter_42](https://github.com/dawnbeen/c_formatter_42) - C language formatter for 42 norminette
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
