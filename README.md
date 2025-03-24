@@ -838,6 +838,7 @@
 
 ## Shell 
 
+- [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle) - zapret and blockcheck binary bundle for windows
 - [yobasystems/alpine-mariadb](https://github.com/yobasystems/alpine-mariadb) - MariaDB running on Alpine Linux [Docker]
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
 - [cheetah/asdf-zig](https://github.com/cheetah/asdf-zig) - zig plugin for asdf version manager https://github.com/asdf-vm/asdf
