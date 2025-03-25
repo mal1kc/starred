@@ -1300,6 +1300,7 @@
 
 ## others 
 
+- [Reledia/glow.yazi](https://github.com/Reledia/glow.yazi) - Glow preview plugin for yazi
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [ej-shafran/compile-mode.nvim](https://github.com/ej-shafran/compile-mode.nvim) - A plugin for Neovim inspired by Emacs' Compilation Mode
 - [cdozdil/OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
