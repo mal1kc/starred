@@ -488,6 +488,7 @@
 
 ## Lua 
 
+- [Reledia/glow.yazi](https://github.com/Reledia/glow.yazi) - Glow preview plugin for yazi
 - [ej-shafran/compile-mode.nvim](https://github.com/ej-shafran/compile-mode.nvim) - A plugin for Neovim inspired by Emacs' Compilation Mode
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
