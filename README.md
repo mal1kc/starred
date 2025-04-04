@@ -154,6 +154,7 @@
 
 ## C# # 
 
+- [belav/csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
 - [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
 - [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
@@ -591,10 +592,11 @@
 
 ## Python 
 
+- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
+- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [dawnbeen/c_formatter_42](https://github.com/dawnbeen/c_formatter_42) - C language formatter for 42 norminette
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [polychromatic/polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer.
@@ -767,6 +769,7 @@
 
 ## Rust 
 
+- [robinvandernoord/uvenv](https://github.com/robinvandernoord/uvenv) - uvenv: pipx for uv (🦀) on Linux and macOS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jdrouet/git-metrics](https://github.com/jdrouet/git-metrics) - A git extension to be able to track metrics about your project, within the git repository
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
