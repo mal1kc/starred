@@ -208,6 +208,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [hyprwm/aquamarine](https://github.com/hyprwm/aquamarine) - Aquamarine is a very light linux rendering backend library
 - [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [GPUOpen-Tools/frame_latency_meter](https://github.com/GPUOpen-Tools/frame_latency_meter) - 
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
@@ -442,7 +443,6 @@
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [TodePond/Arroost](https://github.com/TodePond/Arroost) - arrows in arrows in arrows
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [kotsoft/particle_based_viscoelastic_fluid](https://github.com/kotsoft/particle_based_viscoelastic_fluid) - Implementation of Particle-based Viscoelastic Fluid Simulation
 - [ettoolong/PopupWindow](https://github.com/ettoolong/PopupWindow) - Firefox add-on, move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
@@ -482,7 +482,7 @@
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected.
 - [devhyper/open-video-editor](https://github.com/devhyper/open-video-editor) - Open source Android video editor, built with Media3 and Jetpack Compose.
-- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [bgregos/foreground](https://github.com/bgregos/foreground) - Simple Android personal task manager with Taskwarrior integration
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
