@@ -585,12 +585,13 @@
 
 ## Perl 
 
+- [check-spelling/check-spelling](https://github.com/check-spelling/check-spelling) - Spelling checker action to check spelling in repositories / pull requests / commits
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 
 ## PowerShell 
 
 - [deevus/zed-windows-builds](https://github.com/deevus/zed-windows-builds) - 
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -870,7 +871,6 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-- [check-spelling/check-spelling](https://github.com/check-spelling/check-spelling) - Spelling checker action to check spelling in repositories / pull requests / commits
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme) - 
