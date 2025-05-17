@@ -411,7 +411,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [emersion/mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
@@ -1317,6 +1317,7 @@
 
 ## others 
 
+- [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.
 - [Notenlish/anifetch](https://github.com/Notenlish/anifetch) - neofetch but animated
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
@@ -1850,7 +1851,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -2015,7 +2016,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui
 - [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui) - A JSON terminal UI made in C++
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
