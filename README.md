@@ -453,7 +453,7 @@
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content 
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰185+ options & clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ex
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [0neGal/viper](https://github.com/0neGal/viper) - Launcher+Updater for TF|2 Northstar
@@ -690,7 +690,7 @@
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
-- [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
+- [yazbel/python](https://github.com/yazbel/python) - YazBel Python Belgeleri; En kapsamlı ve ayrıntılı Türkçe Python belgelendirmesi
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) - Easily manage Linux Chroot(s) and Containers with Atoms.
