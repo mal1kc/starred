@@ -141,6 +141,7 @@
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [taviso/hotcorner](https://github.com/taviso/hotcorner) - Tiny Hot Corners for Windows 10
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -957,7 +958,6 @@
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [shilangyu/scoop-search](https://github.com/shilangyu/scoop-search) - Fast `scoop search` drop-in replacement 🚀
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 ## reStructuredText 
 
