@@ -197,6 +197,7 @@
 ## ai 
 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -425,7 +426,6 @@
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
@@ -684,7 +684,6 @@
 - [emacs-helm/helm](https://github.com/emacs-helm/helm) - Emacs incremental completion and selection narrowing framework
 - [iqbalansari/emacs-emojify](https://github.com/iqbalansari/emacs-emojify) - Display emojis in Emacs
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
-- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [cybniv/poetry.el](https://github.com/cybniv/poetry.el) - Python dependency management and packaging in Emacs
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 
@@ -822,7 +821,6 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
-- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -1506,6 +1504,7 @@
 - [ernesto-xload/DigisparkKeyboard](https://github.com/ernesto-xload/DigisparkKeyboard) - DigisparkKeyboard library with multiple layout support
 - [ploopyco/headphones](https://github.com/ploopyco/headphones) - A set of 3D-printed headphones, alongside a DAC/amp/EQ board powered by a Raspberry Pico.
 - [0neGal/viper](https://github.com/0neGal/viper) - Launcher+Updater for TF|2 Northstar
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme) - 
@@ -1536,6 +1535,7 @@
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C++ and tooling
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -1731,6 +1731,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [pallets-eco/flask-sqlalchemy](https://github.com/pallets-eco/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [grantjenks/blue](https://github.com/grantjenks/blue) - The slightly less uncompromising Python code formatter.
