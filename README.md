@@ -358,7 +358,7 @@
 
 ## F# # 
 
-- [razzmatazz/csharp-language-server](https://github.com/razzmatazz/csharp-language-server) - Roslyn-based LSP language server for C#
+- [razzmatazz/csharp-language-server](https://github.com/razzmatazz/csharp-language-server) - Roslyn-based LSP language server for C#; https://www.nuget.org/packages/csharp-ls/
 
 ## GDScript 
 
