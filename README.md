@@ -956,7 +956,7 @@
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
-- [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
+- [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [shilangyu/scoop-search](https://github.com/shilangyu/scoop-search) - Fast `scoop search` drop-in replacement 🚀
