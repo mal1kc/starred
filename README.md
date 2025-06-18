@@ -142,7 +142,7 @@
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [taviso/hotcorner](https://github.com/taviso/hotcorner) - Tiny Hot Corners for Windows 10
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -444,7 +444,7 @@
 ## JavaScript 
 
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
-- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [TodePond/Arroost](https://github.com/TodePond/Arroost) - arrows in arrows in arrows
 - [kotsoft/particle_based_viscoelastic_fluid](https://github.com/kotsoft/particle_based_viscoelastic_fluid) - Implementation of Particle-based Viscoelastic Fluid Simulation
 - [ettoolong/PopupWindow](https://github.com/ettoolong/PopupWindow) - Firefox add-on, move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.
