@@ -139,6 +139,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [pwa](#pwa)
@@ -646,6 +647,7 @@
 
 ## dotfiles 
 
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 - [mattmc3/antidote](https://github.com/mattmc3/antidote) - https://antidote.sh - the cure to slow zsh plugin management
 
 ## dotnet 
@@ -1006,7 +1008,7 @@
 ## javascript 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -1076,6 +1078,7 @@
 
 ## linux 
 
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 - [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle) - zapret and blockcheck binary bundle for windows
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
@@ -1127,6 +1130,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
@@ -1147,6 +1151,7 @@
 ## login 
 
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 
 ## lua 
 
@@ -1200,6 +1205,7 @@
 
 ## material-design 
 
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 
@@ -1224,7 +1230,7 @@
 
 ## music 
 
-- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
@@ -1242,6 +1248,7 @@
 
 ## neovim 
 
+- [folke/persistence.nvim](https://github.com/folke/persistence.nvim) - 💾  Simple session management for Neovim
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -1430,7 +1437,7 @@
 - [nreco/logging](https://github.com/nreco/logging) - Generic file logger for .NET Core (FileLoggerProvider) with minimal dependencies
 - [GPUOpen-LibrariesAndSDKs/FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
 - [containers/conmon](https://github.com/containers/conmon) - An OCI container runtime monitor.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
 - [GothenburgBitFactory/taskserver](https://github.com/GothenburgBitFactory/taskserver) - Taskserver - Taskwarrior Synchronisation Server
 - [bgregos/foreground](https://github.com/bgregos/foreground) - Simple Android personal task manager with Taskwarrior integration
 - [tsoding/binviz](https://github.com/tsoding/binviz) - Binary Visualization based on Christopher Domas talk: https://www.youtube.com/watch?v=4bM3Gut1hIk
@@ -1566,7 +1573,6 @@
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
 - [MiniGlome/Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Python3 script to download archive.org books in PDF format
 - [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) - A list of GOG Galaxy 2.0 integrations and upcoming features
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [FriendsOfGalaxy/galaxy-integration-steam](https://github.com/FriendsOfGalaxy/galaxy-integration-steam) - Integration with Steam for Galaxy
 - [alike03/SubscriptionInfo](https://github.com/alike03/SubscriptionInfo) - See on Steam if the game is currently available on any Subscription package like Xbox Game Pass PC & Console, Ubisoft+ or EA Play
@@ -1680,6 +1686,16 @@
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
+## productivity 
+
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰200+ options, clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ext
+- [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [juzzlin/Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 
 ## programming 
 
@@ -2189,9 +2205,10 @@
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
-- [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
+- [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 
 
 ## License
