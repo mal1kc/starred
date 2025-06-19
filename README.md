@@ -211,7 +211,6 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [hyprwm/aquamarine](https://github.com/hyprwm/aquamarine) - Aquamarine is a very light linux rendering backend library
 - [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [GPUOpen-Tools/frame_latency_meter](https://github.com/GPUOpen-Tools/frame_latency_meter) - 
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
@@ -453,7 +452,7 @@
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰200+ options, clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ext
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [0neGal/viper](https://github.com/0neGal/viper) - Launcher+Updater for TF|2 Northstar
@@ -903,6 +902,7 @@
 
 ## TypeScript 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [sjml/wasmbots](https://github.com/sjml/wasmbots) - wasm. bots. 🤖🧙‍♂️🧚🧙‍♀️⚔️🏰🤖
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
@@ -953,6 +953,7 @@
 
 ## Zig 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook) - Simple Zig programs that demonstrate good practices to accomplish common programming tasks.
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
