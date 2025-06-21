@@ -1352,7 +1352,7 @@
 - [Reledia/glow.yazi](https://github.com/Reledia/glow.yazi) - Glow preview plugin for yazi
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [ej-shafran/compile-mode.nvim](https://github.com/ej-shafran/compile-mode.nvim) - A plugin for Neovim inspired by Emacs' Compilation Mode
-- [cdozdil/OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
+- [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 - [dawnbeen/c_formatter_42](https://github.com/dawnbeen/c_formatter_42) - C language formatter for 42 norminette
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
