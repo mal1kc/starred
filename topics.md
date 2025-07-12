@@ -220,6 +220,7 @@
 
 ## android 
 
+- [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
@@ -899,6 +900,7 @@
 
 ## hacktoberfest 
 
+- [gram-js/gramjs](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library,
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
@@ -1012,6 +1014,7 @@
 
 ## javascript 
 
+- [gram-js/gramjs](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library,
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -1290,6 +1293,7 @@
 
 ## nodejs 
 
+- [gram-js/gramjs](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library,
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -2056,6 +2060,7 @@
 
 ## telegram 
 
+- [gram-js/gramjs](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library,
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
