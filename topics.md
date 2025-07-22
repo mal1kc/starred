@@ -1045,6 +1045,7 @@
 
 ## json 
 
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui) - A JSON terminal UI made in C++
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
@@ -1298,6 +1299,7 @@
 
 ## nodejs 
 
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [gram-js/gramjs](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library,
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
