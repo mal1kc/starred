@@ -221,6 +221,7 @@
 
 ## android 
 
+- [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
@@ -1426,7 +1427,7 @@
 - [ClayAmore/ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
 - [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [zee-shan-ahmad/learn-regex](https://github.com/zee-shan-ahmad/learn-regex) - Learn regex the easy way
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
@@ -2197,6 +2198,7 @@
 
 ## windows 
 
+- [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle) - zapret and blockcheck binary bundle for windows
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
