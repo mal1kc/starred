@@ -371,6 +371,7 @@
 
 ## Go 
 
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
