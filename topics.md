@@ -1376,6 +1376,7 @@
 
 ## others 
 
+- [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [walles/riff](https://github.com/walles/riff) - A diff filter highlighting which line parts have changed
 - [JFLarvoire/the_silver_searcher](https://github.com/JFLarvoire/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [outpoot/twoblade](https://github.com/outpoot/twoblade) - Interface and reference implementation of SHARP (Self-Hosted Address Routing Protocol) — a decentralized email system that uses the # symbol for addressing (e.g., user#domain.com). https://twoblade.co
