@@ -68,6 +68,7 @@
 
 ## C 
 
+- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [JFLarvoire/the_silver_searcher](https://github.com/JFLarvoire/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -371,6 +372,10 @@
 
 ## Go 
 
+- [quackduck/uniclip](https://github.com/quackduck/uniclip) - Cross-platform shared clipboard
+- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -607,6 +612,10 @@
 
 ## Python 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
@@ -626,7 +635,6 @@
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
@@ -788,6 +796,8 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+- [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [j-g00da/mousefood](https://github.com/j-g00da/mousefood) - embedded-graphics backend for Ratatui
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -795,7 +805,6 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
-- [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [robinvandernoord/uvenv](https://github.com/robinvandernoord/uvenv) - uvenv: pipx for uv (🦀) on Linux and macOS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jdrouet/git-metrics](https://github.com/jdrouet/git-metrics) - A git extension to be able to track metrics about your project, within the git repository
@@ -869,6 +878,7 @@
 
 ## Shell 
 
+- [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
 - [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle) - zapret and blockcheck binary bundle for windows
@@ -970,6 +980,8 @@
 
 ## Zig 
 
+- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
+- [AFreeChameleon/multask](https://github.com/AFreeChameleon/multask) - A process manager for linux, mac & windows to simplify your developer environment.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook) - Simple Zig programs that demonstrate good practices to accomplish common programming tasks.
