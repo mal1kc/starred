@@ -560,6 +560,7 @@
 
 ## Others 
 
+- [Hit360D/bridged-networking-KVM](https://github.com/Hit360D/bridged-networking-KVM) - Setting up network bridge in Fedora 40 for VMs
 - [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot Minimal Theme
 - [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [niXman/mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries) - MinGW-W64 compiler binaries
