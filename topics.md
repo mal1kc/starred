@@ -193,6 +193,7 @@
 - [unity](#unity)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
+- [visualization](#visualization)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -279,6 +280,7 @@
 
 ## archlinux 
 
+- [archlinux-de/pkgstats-cli](https://github.com/archlinux-de/pkgstats-cli) - pkgstats client
 - [Zelrin/arch-btrfs-install-guide](https://github.com/Zelrin/arch-btrfs-install-guide) - Arch Linux installation guide with btrfs and snapper, this guide is based on the information from unicks.eu guide https://www.youtube.com/watch?v=TKdZiCTh3EM, and Arch Linux UEFI step-by-step installa
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [nckslvrmn/arch_linux_wsl2](https://github.com/nckslvrmn/arch_linux_wsl2) - Installation instructions for Arch Linux in WSL2
@@ -982,7 +984,6 @@
 - [jothi-prasath/auto-epp](https://github.com/jothi-prasath/auto-epp) - auto-epp is a python script that manages the energy performance preferences (EPP) of amd-pstate-epp
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
@@ -993,6 +994,7 @@
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
 - [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter) - This is the repo of mobile app of taskwarrior
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
@@ -2285,6 +2287,10 @@
 ## virtual-reality 
 
 - [bjornbytes/lovr](https://github.com/bjornbytes/lovr) - Lua Virtual Reality Framework
+
+## visualization 
+
+- [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 
 ## vue 
 
