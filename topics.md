@@ -202,6 +202,7 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
 
@@ -1475,7 +1476,6 @@
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
 - [christianhelle/httpgenerator](https://github.com/christianhelle/httpgenerator) - Generate .http files from OpenAPI (Swagger) specifications
 - [Reledia/glow.yazi](https://github.com/Reledia/glow.yazi) - Glow preview plugin for yazi
-- [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [ej-shafran/compile-mode.nvim](https://github.com/ej-shafran/compile-mode.nvim) - A plugin for Neovim inspired by Emacs' Compilation Mode
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
@@ -2375,6 +2375,18 @@
 ## xml 
 
 - [TLBP/manpages-tr](https://github.com/TLBP/manpages-tr) - The Linux manual pages translated into Turkish
+
+## youtube 
+
+- [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration
+- [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
+- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+- [kanishka-linux/kawaii-player](https://github.com/kanishka-linux/kawaii-player) - Multimedia player, media library manager and portable media server with PC-To-PC casting feature.
+- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 
 ## zig 
 
