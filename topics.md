@@ -980,6 +980,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
+- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [jothi-prasath/auto-epp](https://github.com/jothi-prasath/auto-epp) - auto-epp is a python script that manages the energy performance preferences (EPP) of amd-pstate-epp
@@ -1466,7 +1467,7 @@
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
-- [walles/riff](https://github.com/walles/riff) - A diff filter highlighting which line parts have changed
+- [walles/riff](https://github.com/walles/riff) - A syntax highter for diffs, clarifying which parts of lines have changed
 - [JFLarvoire/the_silver_searcher](https://github.com/JFLarvoire/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [outpoot/twoblade](https://github.com/outpoot/twoblade) - Interface and reference implementation of SHARP (Self-Hosted Address Routing Protocol) — a decentralized email system that uses the # symbol for addressing (e.g., user#domain.com). https://twoblade.co
 - [linux-cultist/venv-selector.nvim](https://github.com/linux-cultist/venv-selector.nvim) - Allows selection of python virtual environment from within neovim
