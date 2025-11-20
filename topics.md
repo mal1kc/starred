@@ -1454,6 +1454,7 @@
 
 ## others 
 
+- [krzmig/godot-simple-sky-project](https://github.com/krzmig/godot-simple-sky-project) - A simple Godot 4 project with day-night and season systems, a procedurally moving sun and moon, and a stylized sky shader.
 - [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage
 - [Bonkahe/SunshineClouds2](https://github.com/Bonkahe/SunshineClouds2) - A procedural cloud system for Godot 4.4+
 - [godotengine/godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
@@ -1934,7 +1935,7 @@
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [vrbadev/PyDestreamer](https://github.com/vrbadev/PyDestreamer) - Python based video downloader for Microsoft Stream
-- [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - All-inclusive Python cheatsheet
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
