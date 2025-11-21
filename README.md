@@ -377,6 +377,7 @@
 
 ## Go 
 
+- [anatol/pacoloco](https://github.com/anatol/pacoloco) - Caching proxy server for Arch Linux pacman
 - [archlinux-de/pkgstats-cli](https://github.com/archlinux-de/pkgstats-cli) - pkgstats client
 - [gaetanlhf/portfwd](https://github.com/gaetanlhf/portfwd) - A simple and efficient TCP/UDP port forwarder
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
