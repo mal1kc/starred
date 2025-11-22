@@ -283,7 +283,6 @@
 
 - [archlinux-de/pkgstats-cli](https://github.com/archlinux-de/pkgstats-cli) - pkgstats client
 - [Zelrin/arch-btrfs-install-guide](https://github.com/Zelrin/arch-btrfs-install-guide) - Arch Linux installation guide with btrfs and snapper, this guide is based on the information from unicks.eu guide https://www.youtube.com/watch?v=TKdZiCTh3EM, and Arch Linux UEFI step-by-step installa
-- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [nckslvrmn/arch_linux_wsl2](https://github.com/nckslvrmn/arch_linux_wsl2) - Installation instructions for Arch Linux in WSL2
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -1454,6 +1453,7 @@
 
 ## others 
 
+- [anatol/pacoloco](https://github.com/anatol/pacoloco) - Caching proxy server for Arch Linux pacman
 - [krzmig/godot-simple-sky-project](https://github.com/krzmig/godot-simple-sky-project) - A simple Godot 4 project with day-night and season systems, a procedurally moving sun and moon, and a stylized sky shader.
 - [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage
 - [Bonkahe/SunshineClouds2](https://github.com/Bonkahe/SunshineClouds2) - A procedural cloud system for Godot 4.4+
