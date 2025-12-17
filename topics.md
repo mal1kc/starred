@@ -1714,7 +1714,6 @@
 - [nv-tlabs/vqad](https://github.com/nv-tlabs/vqad) - 
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - mirror from suckless.org. send patches to hackers@suckless.org mailing list. NO PRs
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
