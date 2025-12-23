@@ -49,6 +49,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [Tcl](#tcl)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -494,6 +495,7 @@
 
 ## Kotlin 
 
+- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [ProtonMail/android-mail](https://github.com/ProtonMail/android-mail) - Proton Mail Android app
@@ -934,6 +936,10 @@
 
 - [outpoot/twoblade](https://github.com/outpoot/twoblade) - Interface and reference implementation of SHARP (Self-Hosted Address Routing Protocol) — a decentralized email system that uses the # symbol for addressing (e.g., user#domain.com). https://twoblade.co
 - [satisfactorymodding/SatisfactoryModManager](https://github.com/satisfactorymodding/SatisfactoryModManager) - A mod manager for easy installation of mods and modloader for Satisfactory
+
+## Swift 
+
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 
 ## Tcl 
 
