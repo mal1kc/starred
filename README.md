@@ -105,7 +105,7 @@
 - [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 - [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [flatpak/xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) - Desktop integration portal
-- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [tuxera/ntfs-3g](https://github.com/tuxera/ntfs-3g) - NTFS-3G Safe Read/Write NTFS Driver
 - [kilobyte/compsize](https://github.com/kilobyte/compsize) - btrfs: find compression type/ratio on a file or set of files
@@ -808,7 +808,6 @@
 ## Roff 
 
 - [TLBP/manpages-tr](https://github.com/TLBP/manpages-tr) - The Linux manual pages translated into Turkish
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -930,6 +929,7 @@
 - [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Zelrin/arch-btrfs-install-guide](https://github.com/Zelrin/arch-btrfs-install-guide) - Arch Linux installation guide with btrfs and snapper, this guide is based on the information from unicks.eu guide https://www.youtube.com/watch?v=TKdZiCTh3EM, and Arch Linux UEFI step-by-step installa
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [p2rkw/xf86-input-mtrack](https://github.com/p2rkw/xf86-input-mtrack) - Xorg Multitouch Trackpad Driver
 - [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
