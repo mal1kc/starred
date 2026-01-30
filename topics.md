@@ -1522,6 +1522,7 @@
 
 ## others 
 
+- [nolanderc/glsl_analyzer](https://github.com/nolanderc/glsl_analyzer) - Language server for GLSL (autocomplete, goto-definition, formatter, and more)
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 - [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell) - A ready to go Wayland status bar for Hyprland and Niri
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers...
@@ -1824,7 +1825,7 @@
 - [jwvhewitt/gearhead-caramel](https://github.com/jwvhewitt/gearhead-caramel) - A coffeebreaklike set in the GearHead world.
 - [joric/bluetooth-battery-monitor](https://github.com/joric/bluetooth-battery-monitor) - Open source Bluetooth battery monitor for Windows
 - [fcwu/desktop-mirror](https://github.com/fcwu/desktop-mirror) - A utility to stream screen and audio between Windows, Ubuntu or XBMC
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [dfaker/df](https://github.com/dfaker/df) - Larger resolution face masked, weirdly warped, deepfake,
