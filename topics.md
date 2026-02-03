@@ -1522,6 +1522,7 @@
 
 ## others 
 
+- [lukky-nl/ik-demo-4.6](https://github.com/lukky-nl/ik-demo-4.6) - Inverse Kinematics Demo Lukky
 - [IceMoonMagic/Satisfactory-Splitter-Calculator](https://github.com/IceMoonMagic/Satisfactory-Splitter-Calculator) - A tool to help calculate how to split conveyors in Satisfactory into specific ratios.
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [games-on-whales/gst-wayland-display](https://github.com/games-on-whales/gst-wayland-display) - A micro Wayland compositor that can be used as a Gstreamer plugin
