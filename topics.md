@@ -198,6 +198,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [unity](#unity)
+- [unreal-engine](#unreal-engine)
 - [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -594,7 +595,7 @@
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
-- [OGRECave/ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
+- [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
 
 ## cryptography 
 
@@ -614,7 +615,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [BrianLima/UWPHook](https://github.com/BrianLima/UWPHook) - 🔗 Add your Windows Store or UWP games to Steam
-- [OGRECave/ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
+- [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 
 ## css 
@@ -1423,6 +1424,7 @@
 
 ## neovim 
 
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [folke/persistence.nvim](https://github.com/folke/persistence.nvim) - 💾  Simple session management for Neovim
@@ -1519,11 +1521,12 @@
 - [furkansarihan/enigine](https://github.com/furkansarihan/enigine) - Game engine playground.
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-- [OGRECave/ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
+- [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 
 ## others 
 
+- [GramThanos/WakeOnLAN](https://github.com/GramThanos/WakeOnLAN) - A simple C program that sends a magic packet
 - [lukky-nl/ik-demo-4.6](https://github.com/lukky-nl/ik-demo-4.6) - Inverse Kinematics Demo Lukky
 - [IceMoonMagic/Satisfactory-Splitter-Calculator](https://github.com/IceMoonMagic/Satisfactory-Splitter-Calculator) - A tool to help calculate how to split conveyors in Satisfactory into specific ratios.
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
@@ -2043,7 +2046,7 @@
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [OGRECave/ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
+- [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
 
 ## python3 
 
@@ -2385,6 +2388,10 @@
 ## unity 
 
 - [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as XWayland.
+
+## unreal-engine 
+
+- [Gforcex/OpenGraphic](https://github.com/Gforcex/OpenGraphic) - Graphic Engine & Game Engine lists
 
 ## video 
 
