@@ -828,6 +828,7 @@
 
 ## Rust 
 
+- [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [games-on-whales/gst-wayland-display](https://github.com/games-on-whales/gst-wayland-display) - A micro Wayland compositor that can be used as a Gstreamer plugin
 - [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell) - A ready to go Wayland status bar for Hyprland and Niri
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
