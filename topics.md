@@ -907,6 +907,7 @@
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
 - [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
+- [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## games 
@@ -1145,6 +1146,7 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+- [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 
 ## javascript 
