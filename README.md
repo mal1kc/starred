@@ -587,6 +587,7 @@
 
 ## Others 
 
+- [mal1kc/starred](https://github.com/mal1kc/starred) - 
 - [Gforcex/OpenGraphic](https://github.com/Gforcex/OpenGraphic) - Graphic Engine & Game Engine lists
 - [wrinkdater/Posys-Cursors-Improved-by-wrinkdater](https://github.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater) - The source cursors were created by the Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 - [Hit360D/bridged-networking-KVM](https://github.com/Hit360D/bridged-networking-KVM) - Setting up network bridge in Fedora 40 for VMs
