@@ -1528,6 +1528,7 @@
 
 ## others 
 
+- [mal1kc/starred](https://github.com/mal1kc/starred) - 
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android
 - [GramThanos/WakeOnLAN](https://github.com/GramThanos/WakeOnLAN) - A simple C program that sends a magic packet
 - [lukky-nl/ik-demo-4.6](https://github.com/lukky-nl/ik-demo-4.6) - Inverse Kinematics Demo Lukky
