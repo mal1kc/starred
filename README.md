@@ -74,6 +74,7 @@
 
 ## C 
 
+- [Lahvuun/sekirofpsunlock](https://github.com/Lahvuun/sekirofpsunlock) - 
 - [GramThanos/WakeOnLAN](https://github.com/GramThanos/WakeOnLAN) - A simple C program that sends a magic packet
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
