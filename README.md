@@ -7,7 +7,6 @@
 
 - [Adblock Filter List](#adblock-filter-list)
 - [Batchfile](#batchfile)
-- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -22,6 +21,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
 - [GDScript](#gdscript)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HLSL](#hlsl)
 - [HTML](#html)
@@ -68,12 +68,9 @@
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [TaleWorlds/Documentations](https://github.com/TaleWorlds/Documentations) - 
 
-## Bru 
-
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-
 ## C 
 
+- [Tiiffi/mcrcon](https://github.com/Tiiffi/mcrcon) - Rcon client for Minecraft
 - [Lahvuun/sekirofpsunlock](https://github.com/Lahvuun/sekirofpsunlock) - 
 - [GramThanos/WakeOnLAN](https://github.com/GramThanos/WakeOnLAN) - A simple C program that sends a magic packet
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
@@ -388,6 +385,10 @@
 - [gdquest-demos/godot-2d-builder](https://github.com/gdquest-demos/godot-2d-builder) - A simulation game demo made in Godot and inspired by Factorio.
 - [uheartbeast/youtube-tutorials](https://github.com/uheartbeast/youtube-tutorials) - A repository for holding all the source code to my YouTube tutorial videos.
 
+## GLSL 
+
+- [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.
+
 ## Go 
 
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -590,7 +591,6 @@
 
 - [mal1kc/starred](https://github.com/mal1kc/starred) - 
 - [Gforcex/OpenGraphic](https://github.com/Gforcex/OpenGraphic) - Graphic Engine & Game Engine lists
-- [wrinkdater/Posys-Cursors-Improved-by-wrinkdater](https://github.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater) - The source cursors were created by the Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 - [Hit360D/bridged-networking-KVM](https://github.com/Hit360D/bridged-networking-KVM) - Setting up network bridge in Fedora 40 for VMs
 - [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot Minimal Theme
 - [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
@@ -641,6 +641,7 @@
 
 ## PowerShell 
 
+- [wrinkdater/Posys-Cursors-Improved-by-wrinkdater](https://github.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater) - The source cursors were created by the Michiel de Boer aka Posy: http://www.michieldb.nl/other/cursors/
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
@@ -1011,6 +1012,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 
 ## Vala 
