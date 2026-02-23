@@ -818,7 +818,7 @@
 ## QML 
 
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [aczw/sddm-theme-corners](https://github.com/aczw/sddm-theme-corners) - customizable SDDM theme that puts stuff on your screen corners
 
 ## Roff 
