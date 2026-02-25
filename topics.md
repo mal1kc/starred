@@ -1534,6 +1534,7 @@
 
 ## others 
 
+- [patriciogonzalezvivo/thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders.
 - [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.
 - [Lahvuun/sekirofpsunlock](https://github.com/Lahvuun/sekirofpsunlock) - 
 - [mal1kc/starred](https://github.com/mal1kc/starred) - 
