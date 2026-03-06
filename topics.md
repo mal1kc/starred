@@ -981,6 +981,7 @@
 
 ## godot 
 
+- [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more
 - [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot Minimal Theme
 - [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
@@ -1678,7 +1679,7 @@
 - [nreco/logging](https://github.com/nreco/logging) - Generic file logger for .NET Core (FileLoggerProvider) with minimal dependencies
 - [GPUOpen-LibrariesAndSDKs/FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
 - [containers/conmon](https://github.com/containers/conmon) - An OCI container runtime monitor.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [GothenburgBitFactory/taskserver](https://github.com/GothenburgBitFactory/taskserver) - Taskserver - Taskwarrior Synchronisation Server
 - [bgregos/foreground](https://github.com/bgregos/foreground) - Simple Android personal task manager with Taskwarrior integration
 - [tsoding/binviz](https://github.com/tsoding/binviz) - Binary Visualization based on Christopher Domas talk: https://www.youtube.com/watch?v=4bM3Gut1hIk
