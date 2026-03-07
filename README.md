@@ -651,6 +651,7 @@
 
 ## Python 
 
+- [RichardPerry/Mixamo-Root](https://github.com/RichardPerry/Mixamo-Root) - Blender addon for mixamo which allows importing and adding root bones to mixamo animations
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more
 - [IceMoonMagic/Satisfactory-Splitter-Calculator](https://github.com/IceMoonMagic/Satisfactory-Splitter-Calculator) - A tool to help calculate how to split conveyors in Satisfactory into specific ratios.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
