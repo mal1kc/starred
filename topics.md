@@ -396,6 +396,7 @@
 
 ## c 
 
+- [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 - [sjml/wasmbots](https://github.com/sjml/wasmbots) - wasm. bots. 🤖🧙‍♂️🧚🧙‍♀️⚔️🏰🤖
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -1236,6 +1237,7 @@
 
 ## linux 
 
+- [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [Tiiffi/mcrcon](https://github.com/Tiiffi/mcrcon) - Rcon client for Minecraft
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [games-on-whales/inputtino](https://github.com/games-on-whales/inputtino) - A virtual input library: supports mouse, keyboard, joypad, trackpad and more
