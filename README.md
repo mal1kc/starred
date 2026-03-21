@@ -70,6 +70,7 @@
 
 ## C 
 
+- [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [Tiiffi/mcrcon](https://github.com/Tiiffi/mcrcon) - Rcon client for Minecraft
 - [Lahvuun/sekirofpsunlock](https://github.com/Lahvuun/sekirofpsunlock) - 
 - [GramThanos/WakeOnLAN](https://github.com/GramThanos/WakeOnLAN) - A simple C program that sends a magic packet
