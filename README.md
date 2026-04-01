@@ -809,7 +809,7 @@
 - [jarun/pdd](https://github.com/jarun/pdd) - :date: Tiny date, time diff calculator with piggybacked timers
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [dfaker/df](https://github.com/dfaker/df) - Larger resolution face masked, weirdly warped, deepfake,
