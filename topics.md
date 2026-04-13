@@ -892,7 +892,7 @@
 
 ## game-engine 
 
-- [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 main repository
+- [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 (Doom3 sourceport) main repository
 - [bjornbytes/lovr](https://github.com/bjornbytes/lovr) - Lua Virtual Reality Framework
 - [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot Minimal Theme
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
@@ -929,7 +929,7 @@
 ## gaming 
 
 - [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
-- [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 main repository
+- [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 (Doom3 sourceport) main repository
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
@@ -1255,7 +1255,7 @@
 - [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle) - zapret and blockcheck binary bundle for windows
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
-- [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 main repository
+- [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 (Doom3 sourceport) main repository
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [jothi-prasath/auto-epp](https://github.com/jothi-prasath/auto-epp) - auto-epp is a python script that manages the energy performance preferences (EPP) of amd-pstate-epp
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -1539,7 +1539,7 @@
 
 ## opengl 
 
-- [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 main repository
+- [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 (Doom3 sourceport) main repository
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [furkansarihan/enigine](https://github.com/furkansarihan/enigine) - Game engine playground.
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
