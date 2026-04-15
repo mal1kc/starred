@@ -1549,6 +1549,7 @@
 
 ## others 
 
+- [tsoding/ht.h](https://github.com/tsoding/ht.h) - Hash Table in C but with a nice Generic API
 - [manuel5975p/raygpu](https://github.com/manuel5975p/raygpu) - Simple & Portable Graphics Library
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [RichardPerry/Mixamo-Root](https://github.com/RichardPerry/Mixamo-Root) - Blender addon for mixamo which allows importing and adding root bones to mixamo animations
@@ -2098,6 +2099,7 @@
 
 ## qt 
 
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [juzzlin/Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 
