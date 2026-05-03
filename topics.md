@@ -1698,7 +1698,7 @@
 - [nreco/logging](https://github.com/nreco/logging) - Generic file logger for .NET Core (FileLoggerProvider) with minimal dependencies
 - [GPUOpen-LibrariesAndSDKs/FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
 - [containers/conmon](https://github.com/containers/conmon) - An OCI container runtime monitor.
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [GothenburgBitFactory/taskserver](https://github.com/GothenburgBitFactory/taskserver) - Taskserver - Taskwarrior Synchronisation Server
 - [bgregos/foreground](https://github.com/bgregos/foreground) - Simple Android personal task manager with Taskwarrior integration
 - [tsoding/binviz](https://github.com/tsoding/binviz) - Binary Visualization based on Christopher Domas talk: https://www.youtube.com/watch?v=4bM3Gut1hIk
