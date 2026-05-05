@@ -167,7 +167,6 @@
 
 - [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-- [christianhelle/httpgenerator](https://github.com/christianhelle/httpgenerator) - Generate .http files from OpenAPI (Swagger) specifications
 - [belav/csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
 - [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
 - [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
@@ -857,6 +856,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
+- [christianhelle/httpgenerator](https://github.com/christianhelle/httpgenerator) - Generate .http files from OpenAPI (Swagger) specifications
 - [robinvandernoord/uvenv](https://github.com/robinvandernoord/uvenv) - uvenv: pipx for uv (🦀) on Linux and macOS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jdrouet/git-metrics](https://github.com/jdrouet/git-metrics) - A git extension to be able to track metrics about your project, within the git repository
