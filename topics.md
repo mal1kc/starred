@@ -1919,7 +1919,7 @@
 
 ## portfolio-website 
 
-- [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - 🌐 My personal website.
+- [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - My personal website.
 
 ## postgresql 
 
@@ -2481,7 +2481,7 @@
 
 ## vue 
 
-- [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - 🌐 My personal website.
+- [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - My personal website.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## vuejs 
