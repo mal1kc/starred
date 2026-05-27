@@ -615,7 +615,6 @@
 - [nckslvrmn/arch_linux_wsl2](https://github.com/nckslvrmn/arch_linux_wsl2) - Installation instructions for Arch Linux in WSL2
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
 - [vanities/GPU-Passthrough-Arch-Linux-to-Windows10](https://github.com/vanities/GPU-Passthrough-Arch-Linux-to-Windows10) - GPU Passthrough and virt-manager walkthrough
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) - A list of GOG Galaxy 2.0 integrations and upcoming features
