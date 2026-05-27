@@ -1819,7 +1819,6 @@
 - [legendary-gl/legendary](https://github.com/legendary-gl/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [nmeum/android-tools](https://github.com/nmeum/android-tools) - Unoffical CMake-based build system for android command line utilities
-- [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
 - [Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [taylorconor/quinesnake](https://github.com/taylorconor/quinesnake) - A quine that plays snake over its own source!
