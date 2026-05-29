@@ -1556,6 +1556,7 @@
 
 ## others 
 
+- [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 - [tsoding/ht.h](https://github.com/tsoding/ht.h) - Hash Table in C but with a nice Generic API
 - [manuel5975p/raygpu](https://github.com/manuel5975p/raygpu) - Simple & Portable Graphics Library
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
