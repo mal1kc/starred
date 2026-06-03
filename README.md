@@ -1045,7 +1045,7 @@
 
 - [nolanderc/glsl_analyzer](https://github.com/nolanderc/glsl_analyzer) - Language server for GLSL (autocomplete, goto-definition, formatter, and more)
 - [raylib-zig/raylib-zig](https://github.com/raylib-zig/raylib-zig) - Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib
-- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig.
+- [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy) - Pixel art editor made with Zig
 - [AFreeChameleon/multask](https://github.com/AFreeChameleon/multask) - A process manager for linux, mac & windows to simplify your developer environment.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook) - Simple Zig programs that demonstrate good practices to accomplish common programming tasks.
