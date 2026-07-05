@@ -1565,6 +1565,7 @@
 
 ## others 
 
+- [yeshjho/Cartograph](https://github.com/yeshjho/Cartograph) - A Satisfactory mod that displays the buildings on the map.
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 - [tsoding/ht.h](https://github.com/tsoding/ht.h) - Hash Table in C but with a nice Generic API
 - [manuel5975p/raygpu](https://github.com/manuel5975p/raygpu) - Simple & Portable Graphics Library
