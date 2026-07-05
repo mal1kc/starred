@@ -201,6 +201,7 @@
 
 ## C++ 
 
+- [yeshjho/Cartograph](https://github.com/yeshjho/Cartograph) - A Satisfactory mod that displays the buildings on the map.
 - [tsoding/ht.h](https://github.com/tsoding/ht.h) - Hash Table in C but with a nice Generic API
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [games-on-whales/inputtino](https://github.com/games-on-whales/inputtino) - A virtual input library: supports mouse, keyboard, joypad, trackpad and more
