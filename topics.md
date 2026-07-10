@@ -215,6 +215,7 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -2563,6 +2564,11 @@
 - [kivy/plyer](https://github.com/kivy/plyer) - Plyer is a platform-independent Python wrapper for platform-dependent APIs
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [saleguas/context_menu](https://github.com/saleguas/context_menu) - 💻 A Python library to create and deploy cross-platform native context menus. 💻
+
+## workflow 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 
 ## xcode 
 
