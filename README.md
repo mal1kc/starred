@@ -597,6 +597,7 @@
 
 ## Others 
 
+- [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) - List of awesome open source apps for Android. Updated daily!
 - [mal1kc/starred](https://github.com/mal1kc/starred) - 
 - [Gforcex/OpenGraphic](https://github.com/Gforcex/OpenGraphic) - Graphic Engine & Game Engine lists
 - [Hit360D/bridged-networking-KVM](https://github.com/Hit360D/bridged-networking-KVM) - Setting up network bridge in Fedora 40 for VMs
