@@ -380,6 +380,7 @@
 
 ## GDScript 
 
+- [HolonProduction/godot_kanban_tasks](https://github.com/HolonProduction/godot_kanban_tasks) - Another kanban board plugin for the godot engine.
 - [lukky-nl/ik-demo-4.6](https://github.com/lukky-nl/ik-demo-4.6) - Inverse Kinematics Demo Lukky
 - [krzmig/godot-simple-sky-project](https://github.com/krzmig/godot-simple-sky-project) - A simple Godot 4 project with day-night and season systems, a procedurally moving sun and moon, and a stylized sky shader.
 - [Bonkahe/SunshineClouds2](https://github.com/Bonkahe/SunshineClouds2) - A procedural cloud system for Godot 4.4+
@@ -592,6 +593,7 @@
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+- [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases
 
 ## OCaml 
 
@@ -962,7 +964,6 @@
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme) - 
-- [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Zelrin/arch-btrfs-install-guide](https://github.com/Zelrin/arch-btrfs-install-guide) - Arch Linux installation guide with btrfs and snapper, this guide is based on the information from unicks.eu guide https://www.youtube.com/watch?v=TKdZiCTh3EM, and Arch Linux UEFI step-by-step installa
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
