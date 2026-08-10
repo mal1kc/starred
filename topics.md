@@ -1002,6 +1002,7 @@
 
 ## godot 
 
+- [HolonProduction/godot_kanban_tasks](https://github.com/HolonProduction/godot_kanban_tasks) - Another kanban board plugin for the godot engine.
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more
 - [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot Minimal Theme
 - [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot
