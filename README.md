@@ -944,7 +944,7 @@
 - [community-valheim-tools/valheim-server-docker](https://github.com/community-valheim-tools/valheim-server-docker) - Valheim dedicated gameserver with automatic update, World backup, BepInEx and ValheimPlus mod support
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers...
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [NixOS/flake-registry](https://github.com/NixOS/flake-registry) - Global registry of Nix flakes
 - [deevus/zed-windows-builds](https://github.com/deevus/zed-windows-builds) - Unofficial nightly builds of the Zed editor for Windows
 - [yobasystems/alpine-mariadb](https://github.com/yobasystems/alpine-mariadb) - MariaDB running on Alpine Linux [Docker]
