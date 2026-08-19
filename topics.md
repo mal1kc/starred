@@ -156,7 +156,6 @@
 - [php](#php)
 - [physics](#physics)
 - [pixel-art](#pixel-art)
-- [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -256,6 +255,7 @@
 
 ## android 
 
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [maltaisn/another-notes-app](https://github.com/maltaisn/another-notes-app) - Another notes app for Android, like there have been tens of thousands before.
 - [FossifyOrg/Calculator](https://github.com/FossifyOrg/Calculator) - A calculator for quick simple calculations with a nice user interface and no ads
@@ -1544,6 +1544,7 @@
 
 ## open-source 
 
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [FossifyOrg/Calculator](https://github.com/FossifyOrg/Calculator) - A calculator for quick simple calculations with a nice user interface and no ads
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
@@ -1646,6 +1647,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - My personal website.
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
 - [grindhousedev/grindlines](https://github.com/grindhousedev/grindlines) - The Great Grinding Guidelines™
 - [threedaymonk/htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier) - A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
@@ -1940,10 +1942,6 @@
 
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
-
-## portfolio-website 
-
-- [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - My personal website.
 
 ## postgresql 
 
@@ -2507,7 +2505,6 @@
 
 ## vue 
 
-- [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - My personal website.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## vuejs 
