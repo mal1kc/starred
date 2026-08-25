@@ -592,7 +592,6 @@
 
 ## Nix 
 
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -1012,6 +1011,7 @@
 - [kodestan/tank-ops](https://github.com/kodestan/tank-ops) - 
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [Nexus-Mods/Vortex](https://github.com/Nexus-Mods/Vortex) - Vortex Development
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [huizhougit/githd](https://github.com/huizhougit/githd) - 
 - [cockpit-project/cockpit-machines](https://github.com/cockpit-project/cockpit-machines) - Cockpit UI for virtual machines
