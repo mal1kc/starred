@@ -1050,7 +1050,7 @@
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-- [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) - Easily manage Linux Chroot(s) and Containers with Atoms.
+- [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) - Terminal-first desktop frontend for persistent Linux environments.
 - [satisfactorymodding/SatisfactoryModManager](https://github.com/satisfactorymodding/SatisfactoryModManager) - A mod manager for easy installation of mods and modloader for Satisfactory
 - [wieslawsoltes/Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 
@@ -1320,7 +1320,7 @@
 - [p2rkw/xf86-input-mtrack](https://github.com/p2rkw/xf86-input-mtrack) - Xorg Multitouch Trackpad Driver
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
-- [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) - Easily manage Linux Chroot(s) and Containers with Atoms.
+- [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) - Terminal-first desktop frontend for persistent Linux environments.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
