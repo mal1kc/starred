@@ -35,7 +35,6 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Nix](#nix)
-- [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -97,6 +96,7 @@
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
@@ -597,10 +597,6 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [R2Northstar/Northstar](https://github.com/R2Northstar/Northstar) - Repo for packaged Northstar releases
 
-## OCaml 
-
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-
 ## Others 
 
 - [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) - List of awesome open source apps for Android. Updated daily!
@@ -702,7 +698,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
-- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV-Based Jellyfin Client with Offline Sync
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
