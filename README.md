@@ -799,7 +799,7 @@
 - [manojmj92/subtitle-downloader](https://github.com/manojmj92/subtitle-downloader) - Python script to automatically download subtitles for any movie/tv series episode.
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [NaturalHistoryMuseum/pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar) - Read one-dimensional barcodes and QR codes from Python 2 and 3.
-- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
+- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF
 - [ncarkaci/TDKDictionaryCrawler](https://github.com/ncarkaci/TDKDictionaryCrawler) - Collect Turkish language word from Turkish Language Institue web site http://www.tdk.gov.tr/ and create turkish word file. It can be useful for cryptanalysis and brute force password attacks and appea
 - [Datadolittle/Photo_Mosaic](https://github.com/Datadolittle/Photo_Mosaic) - A repository to create photo mosaics using python3
