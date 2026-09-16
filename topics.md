@@ -1434,6 +1434,7 @@
 ## mcp 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## minecraft 
@@ -1882,7 +1883,6 @@
 - [mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama](https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama) - Udemy üzerindeki Python kurslarında kullanılan materyaller
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [NaturalHistoryMuseum/pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar) - Read one-dimensional barcodes and QR codes from Python 2 and 3.
-- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 - [ncarkaci/TDKDictionaryCrawler](https://github.com/ncarkaci/TDKDictionaryCrawler) - Collect Turkish language word from Turkish Language Institue web site http://www.tdk.gov.tr/ and create turkish word file. It can be useful for cryptanalysis and brute force password attacks and appea
 - [Datadolittle/Photo_Mosaic](https://github.com/Datadolittle/Photo_Mosaic) - A repository to create photo mosaics using python3
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
