@@ -233,7 +233,6 @@
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [GPUOpen-Tools/frame_latency_meter](https://github.com/GPUOpen-Tools/frame_latency_meter) - 
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
 - [furkansarihan/enigine](https://github.com/furkansarihan/enigine) - Game engine playground.
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
@@ -888,6 +887,7 @@
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [ClayAmore/ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
