@@ -857,7 +857,7 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
-- [ratatui/mousefood](https://github.com/ratatui/mousefood) - embedded-graphics backend for Ratatui
+- [ratatui/mousefood](https://github.com/ratatui/mousefood) - Build embedded applications with Ratatui! 🧀
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [walles/riff](https://github.com/walles/riff) - A syntax highter for diffs, clarifying which parts of lines have changed
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
