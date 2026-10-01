@@ -847,6 +847,7 @@
 
 ## Rust 
 
+- [vladtrc/iw4L](https://github.com/vladtrc/iw4L) - Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
