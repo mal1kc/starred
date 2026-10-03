@@ -2181,7 +2181,7 @@
 
 ## rust 
 
-- [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
+- [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - A community-driven Matrix homeserver
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [ratatui/mousefood](https://github.com/ratatui/mousefood) - Build embedded applications with Ratatui! 🧀
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -2278,7 +2278,7 @@
 
 ## server 
 
-- [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
+- [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - A community-driven Matrix homeserver
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 
 ## serverless 
