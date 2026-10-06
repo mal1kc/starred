@@ -1587,6 +1587,7 @@
 
 ## others 
 
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [vladtrc/iw4L](https://github.com/vladtrc/iw4L) - Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
 - [Silvenga/rustypaste-ui](https://github.com/Silvenga/rustypaste-ui) - A fully-functional UI for Rustypaste.
