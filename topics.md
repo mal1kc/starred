@@ -1587,6 +1587,7 @@
 
 ## others 
 
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [vladtrc/iw4L](https://github.com/vladtrc/iw4L) - Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
