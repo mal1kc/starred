@@ -1587,6 +1587,8 @@
 
 ## others 
 
+- [tnrjns/faith-runner](https://github.com/tnrjns/faith-runner) - Mirror's Edge movement, animation and first-person body in Rust (Bevy). Game files are read from your own install.
+- [Funny-Bones/ELDEN-RING-Combat-Rewrite](https://github.com/Funny-Bones/ELDEN-RING-Combat-Rewrite) - 
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [vladtrc/iw4L](https://github.com/vladtrc/iw4L) - Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
