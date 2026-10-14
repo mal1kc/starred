@@ -258,6 +258,7 @@
 
 ## android 
 
+- [choganhq/chogan](https://github.com/choganhq/chogan) - Offline game collection: tower defence, sudoku, minesweeper, dots and boxes. Free, open source, no ads, no trackers. — مجموعه‌بازی آفلاین چوگان: رایگان، متن‌باز، بدون تبلیغ و بدون ردیاب.
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [maltaisn/another-notes-app](https://github.com/maltaisn/another-notes-app) - Another notes app for Android, like there have been tens of thousands before.
@@ -946,6 +947,7 @@
 
 ## games 
 
+- [choganhq/chogan](https://github.com/choganhq/chogan) - Offline game collection: tower defence, sudoku, minesweeper, dots and boxes. Free, open source, no ads, no trackers. — مجموعه‌بازی آفلاین چوگان: رایگان، متن‌باز، بدون تبلیغ و بدون ردیاب.
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [Shinmera/promptfont](https://github.com/Shinmera/promptfont) - A font with extra characters for button prompts in games
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
@@ -1550,6 +1552,7 @@
 
 ## open-source 
 
+- [choganhq/chogan](https://github.com/choganhq/chogan) - Offline game collection: tower defence, sudoku, minesweeper, dots and boxes. Free, open source, no ads, no trackers. — مجموعه‌بازی آفلاین چوگان: رایگان، متن‌باز، بدون تبلیغ و بدون ردیاب.
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [FossifyOrg/Calculator](https://github.com/FossifyOrg/Calculator) - A calculator for quick simple calculations with a nice user interface and no ads
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2022,6 +2025,7 @@
 
 ## pwa 
 
+- [choganhq/chogan](https://github.com/choganhq/chogan) - Offline game collection: tower defence, sudoku, minesweeper, dots and boxes. Free, open source, no ads, no trackers. — مجموعه‌بازی آفلاین چوگان: رایگان، متن‌باز، بدون تبلیغ و بدون ردیاب.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
