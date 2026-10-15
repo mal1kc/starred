@@ -1590,6 +1590,7 @@
 
 ## others 
 
+- [arjaythedev/twelve-dollar-server-challenge](https://github.com/arjaythedev/twelve-dollar-server-challenge) - Implement one small API on SQLite in any language; we benchmark it on a $12 server (1 vCPU, 2 GB)
 - [tnrjns/faith-runner](https://github.com/tnrjns/faith-runner) - Mirror's Edge movement, animation and first-person body in Rust (Bevy). Game files are read from your own install.
 - [Funny-Bones/ELDEN-RING-Combat-Rewrite](https://github.com/Funny-Bones/ELDEN-RING-Combat-Rewrite) - 
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
