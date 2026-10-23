@@ -1059,7 +1059,7 @@
 
 - [SevenTV/Extension](https://github.com/SevenTV/Extension) - The Web Extension for 7TV, bringing new features, emotes, vanity and performance to Twitch, Kick & YouTube
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
-- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet - interactive hands-on course by LabEx.
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - A comprehensive Python cheat sheet with code examples, built-in functions, module references, and hands-on labs by LabEx.
 
 ## Zig 
 
