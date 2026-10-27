@@ -65,7 +65,6 @@
 
 ## Batchfile 
 
-- [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [TaleWorlds/Documentations](https://github.com/TaleWorlds/Documentations) - 
 
 ## C 
@@ -155,6 +154,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [taviso/hotcorner](https://github.com/taviso/hotcorner) - Tiny Hot Corners for Windows 10
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
