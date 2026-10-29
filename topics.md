@@ -1732,7 +1732,7 @@
 - [Gumnos/dedupe](https://github.com/Gumnos/dedupe) - Deduplicate files within a given list of directories by keeping one copy and making the rest hard-links.
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [ettoolong/PopupWindow](https://github.com/ettoolong/PopupWindow) - Firefox add-on, move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.
 - [orhun/PKGBUILDs](https://github.com/orhun/PKGBUILDs) - Arch Linux packages that I maintain 🔧
