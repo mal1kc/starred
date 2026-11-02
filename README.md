@@ -455,7 +455,7 @@
 
 ## HTML 
 
-- [choganhq/chogan](https://github.com/choganhq/chogan) - Offline game collection: tower defence, sudoku, minesweeper, dots and boxes. Free, open source, no ads, no trackers. — مجموعه‌بازی آفلاین چوگان: رایگان، متن‌باز، بدون تبلیغ و بدون ردیاب.
+- [choganhq/chogan](https://github.com/choganhq/chogan) - Fifty short, finishable games in one free, offline, open-source app: board, card, puzzle and arcade. No ads, no trackers.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [lareii/lareii.github.io](https://github.com/lareii/lareii.github.io) - larei's personal website.
