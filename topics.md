@@ -11,6 +11,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
 - [api](#api)
@@ -295,6 +296,14 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
+
+## android-app 
+
+- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
+- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+- [ssttkkl/mahjong-utils-app](https://github.com/ssttkkl/mahjong-utils-app) - Riichi Mahjong Calculator App (for Android, iOS, Desktop, Web, based on Compose Multiplatform)
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 
 ## angular 
 
@@ -1627,7 +1636,6 @@
 - [GramThanos/WakeOnLAN](https://github.com/GramThanos/WakeOnLAN) - A simple C program that sends a magic packet
 - [lukky-nl/ik-demo-4.6](https://github.com/lukky-nl/ik-demo-4.6) - Inverse Kinematics Demo Lukky
 - [IceMoonMagic/Satisfactory-Splitter-Calculator](https://github.com/IceMoonMagic/Satisfactory-Splitter-Calculator) - A tool to help calculate how to split conveyors in Satisfactory into specific ratios.
-- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [games-on-whales/gst-wayland-display](https://github.com/games-on-whales/gst-wayland-display) - A micro Wayland compositor that can be used as a Gstreamer plugin
 - [nolanderc/glsl_analyzer](https://github.com/nolanderc/glsl_analyzer) - Language server for GLSL (autocomplete, goto-definition, formatter, and more)
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
@@ -1692,7 +1700,6 @@
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [ssttkkl/mahjong-utils-app](https://github.com/ssttkkl/mahjong-utils-app) - Riichi Mahjong Calculator App (for Android, iOS, Desktop, Web, based on Compose Multiplatform)
 - [TodePond/Arroost](https://github.com/TodePond/Arroost) - arrows in arrows in arrows
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [kodestan/tank-ops](https://github.com/kodestan/tank-ops) - 
