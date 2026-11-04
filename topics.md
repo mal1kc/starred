@@ -1048,6 +1048,7 @@
 
 ## golang 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [gaetanlhf/portfwd](https://github.com/gaetanlhf/portfwd) - A simple and efficient TCP/UDP port forwarder
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [quackduck/uniclip](https://github.com/quackduck/uniclip) - Cross-platform shared clipboard
@@ -1614,6 +1615,7 @@
 
 ## others 
 
+- [vayun-mathur/Modern-Apps](https://github.com/vayun-mathur/Modern-Apps) - A full mobile ecosystem
 - [arjaythedev/twelve-dollar-server-challenge](https://github.com/arjaythedev/twelve-dollar-server-challenge) - Implement one small API on SQLite in any language; we benchmark it on a $12 server (1 vCPU, 2 GB)
 - [tnrjns/faith-runner](https://github.com/tnrjns/faith-runner) - Mirror's Edge movement, animation and first-person body in Rust (Bevy). Game files are read from your own install.
 - [Funny-Bones/ELDEN-RING-Combat-Rewrite](https://github.com/Funny-Bones/ELDEN-RING-Combat-Rewrite) - 
@@ -2544,6 +2546,7 @@
 
 ## vpn 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 
 ## vue 
