@@ -400,6 +400,7 @@
 
 ## Go 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit) - DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [anatol/pacoloco](https://github.com/anatol/pacoloco) - Caching proxy server for Arch Linux pacman
@@ -523,6 +524,7 @@
 
 ## Kotlin 
 
+- [vayun-mathur/Modern-Apps](https://github.com/vayun-mathur/Modern-Apps) - A full mobile ecosystem
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [maltaisn/another-notes-app](https://github.com/maltaisn/another-notes-app) - Another notes app for Android, like there have been tens of thousands before.
