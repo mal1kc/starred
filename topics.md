@@ -2577,6 +2577,7 @@
 
 ## windows 
 
+- [BlueHeisenberg/SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) - Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.
 - [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit) - DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
