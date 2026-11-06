@@ -262,6 +262,7 @@
 
 ## android 
 
+- [ASEbrahim/MaliBridge](https://github.com/ASEbrahim/MaliBridge) - Play Steam and PC games on Android phones and tablets with a Mali GPU, on the device's own driver. Free.
 - [choganhq/chogan](https://github.com/choganhq/chogan) - Fifty short, finishable games in one free, offline, open-source app: board, card, puzzle and arcade. No ads, no trackers.
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
@@ -979,6 +980,7 @@
 
 ## gaming 
 
+- [ASEbrahim/MaliBridge](https://github.com/ASEbrahim/MaliBridge) - Play Steam and PC games on Android phones and tablets with a Mali GPU, on the device's own driver. Free.
 - [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
 - [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 (Doom3 sourceport) main repository
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
