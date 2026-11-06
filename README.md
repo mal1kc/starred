@@ -70,6 +70,7 @@
 
 ## C 
 
+- [ASEbrahim/MaliBridge](https://github.com/ASEbrahim/MaliBridge) - Play Steam and PC games on Android phones and tablets with a Mali GPU, on the device's own driver. Free.
 - [arjaythedev/twelve-dollar-server-challenge](https://github.com/arjaythedev/twelve-dollar-server-challenge) - Implement one small API on SQLite in any language; we benchmark it on a $12 server (1 vCPU, 2 GB)
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
@@ -166,6 +167,7 @@
 
 ## C# # 
 
+- [BlueHeisenberg/SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) - Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.
 - [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [belav/csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
