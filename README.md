@@ -35,6 +35,7 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Nix](#nix)
+- [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -604,6 +605,10 @@
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+
+## OCaml 
+
+- [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 
 ## Others 
 
