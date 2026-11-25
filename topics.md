@@ -499,7 +499,7 @@
 
 - [SevenTV/Extension](https://github.com/SevenTV/Extension) - The Web Extension for 7TV, bringing new features, emotes, vanity and performance to Twitch, Kick & YouTube
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Rein: a browser extension that hides YouTube recommendations and lets you customize the interface.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [inbasic/ignotifier](https://github.com/inbasic/ignotifier) - Multiple account Gmail notifier (without storing passwords)
@@ -896,7 +896,7 @@
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Rein: a browser extension that hides YouTube recommendations and lets you customize the interface.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -1160,7 +1160,6 @@
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [shilangyu/scoop-search](https://github.com/shilangyu/scoop-search) - Fast `scoop search` drop-in replacement 🚀
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1641,13 +1640,14 @@
 
 ## others 
 
+- [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [vayun-mathur/Modern-Apps](https://github.com/vayun-mathur/Modern-Apps) - A full mobile ecosystem
 - [arjaythedev/twelve-dollar-server-challenge](https://github.com/arjaythedev/twelve-dollar-server-challenge) - Implement one small API on SQLite in any language; we benchmark it on a $12 server (1 vCPU, 2 GB)
 - [tnrjns/faith-runner](https://github.com/tnrjns/faith-runner) - Mirror's Edge movement, animation and first-person body in Rust (Bevy). Game files are read from your own install.
 - [Funny-Bones/ELDEN-RING-Combat-Rewrite](https://github.com/Funny-Bones/ELDEN-RING-Combat-Rewrite) - 
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
-- [vladtrc/iw4L](https://github.com/vladtrc/iw4L) - Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
+- [vladtrc/iw4L](https://github.com/vladtrc/iw4L) - Experimental standalone IW4-compatible runtime written in Rust with Bevy and wgpu
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
 - [Silvenga/rustypaste-ui](https://github.com/Silvenga/rustypaste-ui) - A fully-functional UI for Rustypaste.
 - [yeshjho/Cartograph](https://github.com/yeshjho/Cartograph) - A Satisfactory mod that displays the buildings on the map.
@@ -1884,7 +1884,7 @@
 - [self-distilled-stylegan/self-distilled-internet-photos](https://github.com/self-distilled-stylegan/self-distilled-internet-photos) - 
 - [nv-tlabs/vqad](https://github.com/nv-tlabs/vqad) - 
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
-- [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
+- [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implementation using NVIDIA's NVDEC
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [drkhsh/slstatus](https://github.com/drkhsh/slstatus) - mirror from suckless.org. send patches to hackers@suckless.org mailing list. NO PRs
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
@@ -2046,7 +2046,7 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Rein: a browser extension that hides YouTube recommendations and lets you customize the interface.
 - [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -2687,7 +2687,7 @@
 
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration.
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
-- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Rein: a browser extension that hides YouTube recommendations and lets you customize the interface.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
