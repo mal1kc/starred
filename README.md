@@ -863,7 +863,7 @@
 - [tnrjns/faith-runner](https://github.com/tnrjns/faith-runner) - Mirror's Edge movement, animation and first-person body in Rust (Bevy). Game files are read from your own install.
 - [Funny-Bones/ELDEN-RING-Combat-Rewrite](https://github.com/Funny-Bones/ELDEN-RING-Combat-Rewrite) - 
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-- [vladtrc/iw4L](https://github.com/vladtrc/iw4L) - Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
+- [vladtrc/iw4L](https://github.com/vladtrc/iw4L) - Experimental standalone IW4-compatible runtime written in Rust with Bevy and wgpu
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - A community-driven Matrix homeserver
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
